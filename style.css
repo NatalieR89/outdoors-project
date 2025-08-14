@@ -114,12 +114,12 @@ body {
 
 /* ABOUT */
 
-.machines {
+.about {
     display: flex;
     flex-direction: column;
 }
 
-.machines h1 {
+.about h1 {
     padding-top: 50px;
     margin: auto;
     font-size: 75px;
@@ -127,7 +127,7 @@ body {
     text-shadow: 2px 2px 5px black;
 }
 
-.machines p {
+.about p {
     font-size: 30px;
     font-weight: bold;
     text-align: left;
