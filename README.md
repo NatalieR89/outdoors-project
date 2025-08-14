@@ -28,7 +28,7 @@ By: **Natalie Ritchie**
 
 - Simple, clean HTML5 structure  
 - Navigation bar linking to all pages  
-- External CSS styling via `style.css`  
+- External CSS styling via style.css and Bootstrap  
 - Google Fonts integration for custom typography  
 - Favicon support for branding  
 - Basic responsive setup via viewport meta tag
