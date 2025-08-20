@@ -14,12 +14,17 @@ By: **Natalie Ritchie**
 
 - **Home (index.html)**  
   Main landing page featuring the core project content.
+  Has SEO.
 
 - **Contact (contact.html)**  
   Allows users to reach out with questions or feedback.
+  Has FORM
+
+- **Machines (machines.html)**
+  Has Bootstrap Carousel.  
 
 - **Operations (operations.html)** — *Filler content*  
-- **Machines (machines.html)** — *Filler content*  
+  
 - **Updates (updates.html)** — *Filler content*
 
 ---
