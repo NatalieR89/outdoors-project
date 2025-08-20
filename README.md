@@ -5,8 +5,8 @@ The **Home** and **Contact** pages are the primary focus of the project, while t
 
 ## Project Author
 By: **Natalie Ritchie**  
-📧 Email: [natalieritch89@gmail.com](mailto:natalieritch89@gmail.com)  
-🌐 GitHub: [github.com/NatalieR89](https://github.com/NatalieR89)
+📧 Email: [natalieritch89@gmail.com]
+🌐 GitHub: [github.com/NatalieR89]
 
 ---
 
