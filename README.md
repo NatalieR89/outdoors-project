@@ -1,7 +1,7 @@
 # Outdoors Project
 
 This project is a basic HTML/CSS website designed as part of a learning exercise.  
-The **Home** and **Contact** pages are the primary focus of the project, while the remaining pages are placeholder content to demonstrate site structure and navigation.
+The **Home**, **Contact** and **Machines** pages are the primary focus of the project, while the remaining pages are placeholder content to demonstrate site structure and navigation.
 
 ## Project Author
 By: **Natalie Ritchie**  
@@ -23,9 +23,9 @@ By: **Natalie Ritchie**
 - **Machines (machines.html)**
   Has Bootstrap Carousel.  
 
-- **Operations (operations.html)** — *Filler content*  
+- **Operations (operations.html)** — *Filler page - no content*  
   
-- **Updates (updates.html)** — *Filler content*
+- **Updates (updates.html)** — *Filler page - no content*
 
 ---
 
